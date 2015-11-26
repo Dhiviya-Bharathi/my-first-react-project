@@ -1,0 +1,79 @@
+[
+    {
+		"productId": "234",
+        "productName": "Inferno",
+        "category": "Books and media",
+        "quantity": 3,
+        "price": 500
+    },
+    {
+		"productId": "534",
+        "productName": "Harry Potter",
+        "category": "Books and media",
+        "quantity": 5,
+        "price": 700
+    },
+	{
+		"productId": "454",
+        "productName": "Moto G",
+        "category": "Mobiles and Accessories",
+        "quantity": 4,
+        "price": 12999
+    },
+    {
+		"productId": "789",
+        "productName": "Samsung S3",
+        "category": "Mobiles and Accessories",
+        "quantity": 2,
+        "price": 22999
+    },
+	{	
+		"productId": "762",
+        "productName": "Sofa",
+        "category": "Home and Kitchen",
+        "quantity": 1,
+        "price": 50000
+    },
+    {
+		"productId": "908",
+        "productName": "Grinder",
+        "category": "Home and Kitchen",
+        "quantity": 5,
+        "price": 5000
+    },
+	{
+		"productId": "125",
+        "productName": "Kurties",
+        "category": "Clothes",
+        "quantity": 20,
+        "price": 459
+    },
+    {
+		"productId": "787",
+        "productName": "Formal shirt",
+        "category": "Clothes",
+        "quantity": 20,
+        "price": 999
+    },
+    {
+		"productId": "343",
+        "productName": "Sports shoe",
+        "category": "More Stores",
+        "quantity": 2,
+        "price": 2999
+    },
+    {
+		"productId": "254",
+        "productName": "Yoga Mat",
+        "category": "More Stores",
+        "quantity": 10,
+        "price": 499
+    },
+   {
+		"productId": "867",
+        "productName": "Travel Bag",
+        "category": "More Stores",
+        "quantity": 7,
+        "price": 1499
+    }
+]
